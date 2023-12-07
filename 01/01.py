@@ -2,7 +2,7 @@ import re
 from  word2number import w2n
 
 
-# f = open('input01.txt', 'r')
+# f = open('01/input01.txt', 'r')
 
 # input = f.readlines()
 
@@ -34,7 +34,7 @@ number_words = {
         "five", "six", "seven", "eight", "nine"
     }
 
-f = open('input01.txt', 'r')
+f = open('01/input01.txt', 'r')
 
 input = f.readlines()
 

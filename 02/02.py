@@ -1,4 +1,4 @@
-# f = open('input02.txt', 'r')
+# f = open('02/input02.txt', 'r')
 
 # input = f.readlines()
 
@@ -38,7 +38,7 @@
 
 
 
-f = open('input02.txt', 'r')
+f = open('02/input02.txt', 'r')
 
 input = f.readlines()
 
